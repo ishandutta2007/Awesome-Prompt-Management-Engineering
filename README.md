@@ -66,7 +66,7 @@ The prompt management and prompt engineering software market is estimated at **$
 
 ## 🔓 Open-Source GitHub Projects
 
-The open-source ecosystem provides powerful tools for prompt management, programmatic prompt optimization, security red teaming, and systematic evaluation. Projects are listed below sorted in **descending order by GitHub Stars Count**.
+The open-source ecosystem provides powerful tools for prompt management, programmatic prompt optimization, security red teaming, and systematic evaluation. Projects are listed below sorted in **descending order by GitHub_Stars_Count**.
 
 ---
 
@@ -173,3 +173,12 @@ If you find this Prompt Management & Engineering directory helpful in building o
 <p align="center">
   <b>Made with ❤️ for AI engineers, prompt designers, and LLMOps specialists worldwide.</b>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Prompt-Management-Engineering&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Prompt-Management-Engineering_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Prompt-Management-Engineering_growth.svg">
+  </picture>
+</a>
