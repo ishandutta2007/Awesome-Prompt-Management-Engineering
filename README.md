@@ -147,10 +147,13 @@ The open-source ecosystem provides powerful tools for prompt management, program
 
 ## 💖 Support & Sponsorship
 
-If you find this Prompt Management & Engineering directory helpful in building your AI stack:
-- ⭐ **Star** this repository to help others discover it!
-- 🔀 **Fork** and share with your LLMOps and AI engineering teams.
-- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+Thank you so much for visiting and using this resource! 🙏 Your support keeps this community-driven directory accurate, up to date, and comprehensive.
+
+If you find this Prompt Management & Engineering directory helpful in building or evaluating your AI stack:
+- ⭐ **Star this repository** to show your appreciation and help others in the AI community discover it!
+- 🍴 **Fork the repo** to keep a reference copy and build your own custom workflows.
+- 📢 **Share it** with your friends, colleagues, LLMOps practitioners, and AI engineering teams.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing research and maintenance, please consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every bit of support is deeply appreciated!
 
 ---
 
